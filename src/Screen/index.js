@@ -1,7 +1,7 @@
 import React from 'react';
-import '../Style/index.css';
+import '../Style/Index.css';
 
-export default function index() {
+export default function Index() {
   return (
     <div className='indexBody'>index</div>
   )

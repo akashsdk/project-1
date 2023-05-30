@@ -1,13 +1,13 @@
 import './App.css';
-import Home from'./Screen/home.js';
-import Header from './Component/header';
-import Index from "./Screen/index";
-import Footer from './Component/footer';
+import Home from'./Screen/Home.js';
+import Header from './Component/Header';
+import Index from "./Screen/Index";
+import Footer from './Component/Footer';
 
 function App() {
   return (
     <div>
-      <Header />
+      <Header/>
       <Home />
       <Index />
       <Footer />
