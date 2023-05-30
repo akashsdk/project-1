@@ -21,7 +21,7 @@ function App() {
         <Route path="*" element={<WrongPage />} />
           <Route path="/" element={<Home />} />
           <Route path="/About" element={<About />} />
-          <Route path="/Contact" element={<Contact />} />
+          <Route path="/ContactUs" element={<Contact />} />
           <Route path="/Login" element={<Login />} />
           
         </Routes>
