@@ -3,6 +3,6 @@ import '../Style/Index.css';
 
 export default function Index() {
   return (
-    <div className='indexBody'>index</div>
+    <div className='indexBody'>indexhh</div>
   )
 }
