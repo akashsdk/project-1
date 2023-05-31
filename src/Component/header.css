@@ -9,3 +9,10 @@
 .headerLink{
     margin-left: 11px;
 }
+.headerTitle{
+    flex: 3;
+    margin-left: 15%;
+}
+.headerBox{
+    flex: 1;
+}
