@@ -7,7 +7,9 @@ export default function Header() {
     <div className="headerBody">
       <h2 className="headerTitle">Project-1</h2>
       <div className="headerBox">
-        <Link className="headerLink" to="/">Home</Link>
+        <Link className="headerLink" to="/">
+          Home
+        </Link>
         <Link className="headerLink" to="/About">About</Link>
         <Link className="headerLink" to="/ContactUs">Contact Us</Link>
         <Link className="headerLink" to="/Login">Login</Link>

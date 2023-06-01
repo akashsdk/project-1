@@ -1,20 +1,22 @@
-.headerBody{
-    background-color: #fbe4ca;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.headerBody {
+  background-color: #fbeddc;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.headerLink{
-    margin-left: 11px;
-    background-color: aqua;
-
+.headerLink {
+  margin-left: 30px;
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  line-height: 1;
+  text-decoration: none;
 }
-.headerTitle{
-    flex: 3;
-    margin-left: 15%;
+.headerTitle {
+  flex: 4;
+  margin-left: 15%;
 }
-.headerBox{
-    flex: 1;
+.headerBox {
+  flex: 2;
 }
