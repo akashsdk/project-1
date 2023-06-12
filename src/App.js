@@ -16,6 +16,7 @@ function App() {
   return (
     <div>
       <BrowserRouter>
+      
       <Header/>
         <Routes>
         <Route path="*" element={<WrongPage />} />

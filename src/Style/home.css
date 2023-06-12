@@ -1,3 +1,15 @@
 .homeBody{
-    color: aqua;
+    height: auto;
+    width: 100%;
+}
+.homeBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.homePTag{
+    font-size: 10px;
+    margin-top: -15px;
+    opacity: .4;
 }
