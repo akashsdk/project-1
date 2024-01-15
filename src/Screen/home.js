@@ -16,7 +16,7 @@ export default function Home() {
           <h1 style={{
             marginTop:'-13px'
           }}>Group of Architects</h1>
-          <p className="homePTag">dfghjkjhgfdfghjkjhgfghjkjhgfghjkjhgfghjhgfghj</p>
+          <p className="homePTag">dfghjkjhjhgfghj</p>
           
         </div>
       </div>
